@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/meetup-connect-frontend/static/css/main.3c4feb02.chunk.css",
+    "main.js": "/meetup-connect-frontend/static/js/main.867138eb.chunk.js",
+    "main.js.map": "/meetup-connect-frontend/static/js/main.867138eb.chunk.js.map",
+    "runtime~main.js": "/meetup-connect-frontend/static/js/runtime~main.a15623e8.js",
+    "runtime~main.js.map": "/meetup-connect-frontend/static/js/runtime~main.a15623e8.js.map",
+    "static/js/2.b1171200.chunk.js": "/meetup-connect-frontend/static/js/2.b1171200.chunk.js",
+    "static/js/2.b1171200.chunk.js.map": "/meetup-connect-frontend/static/js/2.b1171200.chunk.js.map",
+    "index.html": "/meetup-connect-frontend/index.html",
+    "precache-manifest.af0ad842a0eb698aec515351c372bbf3.js": "/meetup-connect-frontend/precache-manifest.af0ad842a0eb698aec515351c372bbf3.js",
+    "service-worker.js": "/meetup-connect-frontend/service-worker.js",
+    "static/css/main.3c4feb02.chunk.css.map": "/meetup-connect-frontend/static/css/main.3c4feb02.chunk.css.map",
+    "static/media/fullstack.png": "/meetup-connect-frontend/static/media/fullstack.aad41c28.png",
+    "static/media/placeholder-woman.jpg": "/meetup-connect-frontend/static/media/placeholder-woman.c66fdc7d.jpg",
+    "static/media/women-in-tech.jpg": "/meetup-connect-frontend/static/media/women-in-tech.11aad3c2.jpg"
+  }
+}
