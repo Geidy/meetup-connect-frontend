@@ -1,7 +1,7 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
 import '../css/Header.css';
-import tech from '../images/women-in-tech.jpg';
+import tech from '../images/womenintech1.jpg';
 
 
 const Header = () => (
