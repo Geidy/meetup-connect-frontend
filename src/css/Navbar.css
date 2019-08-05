@@ -1,0 +1,22 @@
+.Navbar{
+    background-color: rgb(240, 120, 214);
+    width: 100%;
+    overflow: auto;
+    font-size: 18px;
+    font-style: italic bold;
+    font-family: Verdana, Tahoma, sans-serif;
+}
+
+ul{
+    list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+.li a{
+    display: inline;
+list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
